@@ -1,0 +1,25 @@
+/* Override this by placing your own custom "user.css" in your "assets/css" directory.  When you do, this file will automatically be ignored! */
+@import url('https://cdn.jsdelivr.net/gh/scillidan/fonts@1.0.1/serve/eb-garamond-12.css');
+
+:root {
+    font-family: 'EB Garamond 12';
+}
+
+body::-webkit-scrollbar {
+    width: 8px;
+}
+body.thin::-webkit-scrollbar {
+    width: 2px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #888;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(100,100,100,0.4);
+}
