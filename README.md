@@ -17,7 +17,8 @@ build with [AutoPhugo](https://github.com/kc0bfv/autophugo)
 - [Advanced Renamer](https://www.advancedrenamer.com)
 - [renamer](https://github.com/75lb/renamer)
 - [Sublime Text](https://www.sublimetext.com)
-- [XnConvert](https://www.xnview.com/en/xnconvert) ...
+- [XnConvert](https://www.xnview.com/en/xnconvert)
+- ...
 
 ## Screenshot
 
