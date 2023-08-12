@@ -18,7 +18,10 @@ build with [AutoPhugo](https://github.com/kc0bfv/autophugo)
 - [renamer](https://github.com/75lb/renamer)
 - [Sublime Text](https://www.sublimetext.com)
 - [XnConvert](https://www.xnview.com/en/xnconvert)
-- ...
+
+## Attribute
+
+Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 ## Screenshot
 
