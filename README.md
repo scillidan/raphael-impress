@@ -25,4 +25,4 @@ Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/li
 
 ## Screenshot
 
-![](raphael-impress.png)
+![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/raphael-impress.png)
