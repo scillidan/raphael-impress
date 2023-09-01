@@ -2,7 +2,7 @@
 
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](https://raphael-impress.netlify.app)
 
-build with [AutoPhugo](https://github.com/kc0bfv/autophugo)
+Build with [AutoPhugo](https://github.com/kc0bfv/autophugo)
 
 ## Tools
 
@@ -22,7 +22,3 @@ build with [AutoPhugo](https://github.com/kc0bfv/autophugo)
 ## Attribute
 
 Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
-
-## Screenshot
-
-![](https://raw.githubusercontent.com/scillidan/repo_cos/main/screenshot/raphael-impress.png)
