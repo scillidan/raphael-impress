@@ -21,4 +21,4 @@ Build with [AutoPhugo](https://github.com/kc0bfv/autophugo).
 
 ## Attribute
 
-Content of `README.md` licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+The content write by me is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
