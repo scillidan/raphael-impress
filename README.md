@@ -4,7 +4,7 @@
 
 Build with [AutoPhugo](https://github.com/kc0bfv/autophugo).
 
-## Tools
+## Toolset
 
 - [Directory Opus](https://www.gpsoft.com.au)
 - [Ditto](https://ditto-cp.sourceforge.io)
