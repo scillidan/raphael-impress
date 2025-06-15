@@ -1,3 +1,3 @@
 public/
 resources/
-*.ini
+.hugo_build.lock
