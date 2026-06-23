@@ -1,13 +1,5 @@
 # raphael-impress
 
-[![CC0 1.0][cc-zero-image]][cc-zero]
-
-[cc-zero]: http://creativecommons.org/licenses/zero/1.0/
-[cc-zero-image]: https://i.creativecommons.org/l/zero/1.0/88x31.png
-[cc-zero-shield]: https://img.shields.io/badge/License-CC%20ZERO%201.0-lightgrey.svg
-
-[![](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://scillidan.github.io/raphael-impress) [![](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](https://raphael-impress.netlify.app)
-
 Build with [AutoPhugo](https://github.com/kc0bfv/autophugo).
 
 ![](static/raphael-impress.png)
@@ -29,4 +21,4 @@ Build with [AutoPhugo](https://github.com/kc0bfv/autophugo).
 
 ## Attribute
 
-Others is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+Source code (excluding image assets) is under the​ `MIT` license.
