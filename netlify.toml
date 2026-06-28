@@ -1,0 +1,16 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.163.3"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+  HUGO_BASEURL = "https://raphael-impress.netlify.app"
+
+[context.deploy-preview.environment]
+  HUGO_ENV = "staging"
+
+[context.branch-deploy.environment]
+  HUGO_ENV = "staging"
