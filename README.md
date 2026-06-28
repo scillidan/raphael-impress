@@ -21,4 +21,4 @@ Build with [AutoPhugo](https://github.com/kc0bfv/autophugo).
 
 ## Attribute
 
-Source code (excluding image assets) is under the​ `MIT` license.
+Source code (excluding image assets) is under the `MIT` license.
