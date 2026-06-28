@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
     # Meta
     description = ""
     keywords = "oil painting, gallery, pre-raphaelite, impressionist"
+    author = "scillidan"
     #msvalidate = ""
     #googlesiteverification = ""
     #thumb_width = 480
